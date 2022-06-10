@@ -1,24 +1,23 @@
-<style>
-    .footer {
-        display: none;
-    }
-</style>
+<style>#downloads { display: none !important; }</style>
 
-# TODO
+## slides
+* [week-01](/1234/week01)
 
-FIX THIS UP
+&nbsp;
 
-<details>
-<summary>Resources</summary>
-<a href="/tut-template/resources/template">template</a>
-</details>
+## resources
+* [tooling](/1234/resources/tooling)
 
-<details>
-<summary>Slides</summary>
-<a href="/tut-template/week1">week 1</a>
-</details>
+&nbsp;
 
-<details>
-<summary>Extended Slides</summary>
-<a href="/tut-template/week1-extended">week 1</a>
-</details>
+## useful websites
+* [google.com](https://www.google.com)
+
+&nbsp;
+
+## Community stuff
+* Email me @ [lachlan.waugh@student.unsw.edu.au]()
+* Join the [slack](https://seceduau.slack.com/signup) (im [@melon]()), then join the servers:
+    * #cs1234
+    * #cs1234-22t2-t12a
+* pls dont contact the course account for random stuff or I'll get fired.
