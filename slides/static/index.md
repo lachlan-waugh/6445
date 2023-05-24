@@ -1,5 +1,3 @@
-<style>#downloads { display: none !important; }</style>
-
 ## slides
 * week-01 [slides](/6445/week01) [~~recording~~]()
 
