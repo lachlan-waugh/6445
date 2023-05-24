@@ -13,3 +13,20 @@ outputs: ["Reveal"]
 ### COMP6445 W19A
 
 ---
+
+## Lecture content
+{{% section %}}
+
+{{% /section %}}
+
+---
+
+## Demo
+
+---
+
+## Tutorial
+
+---
+
+## Walkthrough
