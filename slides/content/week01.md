@@ -44,10 +44,14 @@ We expect a high standard of professionalism from you at all times while you are
 ## places for course discussion
 
 * [seceduau.slack.com/signup](https://seceduau.slack.com/signup)
-    * #cs644
-    * #cs6443-22t2-h16a
+    * #cs6445
+    * #cs6445-23t1-w19a
 * [discord.gg/???](idk)
     * comp6445-6845 (under security)
+
+## where to access resources
+* slides/recordings [waugh.zip/6445]()
+* my course notes (not all of them) [waugh.zip/notes/comp/6845](https://waugh.zip/notes/comp/6845/)
 
 {{% /section %}}
 
@@ -64,7 +68,7 @@ We expect a high standard of professionalism from you at all times while you are
 * Your name, degree, year?
 * Why'd you do the course?
 * What time did you sleep last night?
-* Fun fact?
+* What courses are you doing this term?
 * ~~Your credit card number and the 3 wacky digits on the back~~
 
 {{% /section %}}
@@ -74,21 +78,21 @@ We expect a high standard of professionalism from you at all times while you are
 ## Questions
 * Are tuts compulsory? No
 * Are they recorded? Yes
-* Where are these resources? [lwaugh.io/6445/]()
+* Where are these resources? [waugh.zip/6445/](https://waugh.zip/6445)
 
 ---
 
 {{% section %}}
 
 ## Course content
-* Wargames (10%)
-* 2 x PenTesting reports (40%)
-* Mid-term (0%)
-* Final (50%)
+* Investigations (12%)
+* 2 x Reports (18% + 20%)
+* Reflections (10%)
+* Final (40%)
 
 ---
 
-## Wargames
+## Investigations
 * don't leave them to the last minute, you'll be sad :(
 
 * cool to collaborate/work together, but your flags need to be different.
@@ -96,14 +100,26 @@ We expect a high standard of professionalism from you at all times while you are
 ---
 
 ## Report
-* incident resposne report
+* incident response report
     * keep track of everything you find/do
-    * threats and remediation are really important
+    * make sure your process is forensically sound (or at least say it is)
 
 {{% /section %}}
 
 ---
 
-## Lecture content
+## Tooling
+* All of tooling works on Linux, can't confirm it works on other OSs as easily though
+* Intensive tools (e.g. Autopsy digests, Wireshark) don't run as well in a VM, I'd suggest running it on your host
 
 ---
+
+## Groups
+* I'd suggest grouping up with some people
+* Make a Discord/Messenger/Vent (im old) group
+
+---
+
+## Forensic process
+* ABD: Always Be Documenting
+* Chain of Custody
