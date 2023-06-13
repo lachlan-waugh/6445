@@ -1,5 +1,6 @@
 ## slides
 * week-01 [slides](/6445/week01) [~~recording~~]()
+* week-02 [slides](/6445/week02) [~~recording~~]()
 
 &nbsp;
 
