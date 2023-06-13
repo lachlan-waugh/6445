@@ -1,8 +1,8 @@
 ## slides
+* [recordings playlist](https://www.youtube.com/playlist?list=PL2xJTaGLKqbsYoz-6Ed491G28aKBC0ZNl)
 * week-01 [slides](/6445/week01) [recording](https://youtu.be/NuHJcjTiI8Y)
 * week-02 [slides](/6445/week02) [recording](https://youtu.be/I1fQvfanOYw)
 * week-03 [slides](/6445/week03) [~~recording~~]()
-* [recordings playlist](https://www.youtube.com/playlist?list=PL2xJTaGLKqbsYoz-6Ed491G28aKBC0ZNl)
 &nbsp;
 
 ## resources
