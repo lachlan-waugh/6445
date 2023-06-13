@@ -1,7 +1,8 @@
 I found this wierd file on my computer, idk what it's meant to be
-Can you find out what it's meant to be?
-* You can download it [here](./whatisthis)
-* The file contents is located below
+
+* Can you find out what it's meant to be?
+    * You can download it [here](./whatisthis)
+    * The file contents is located below
 
 ```
 <~:eLln$31&+!!"^1a&W0?zz!!!0&)usheD.PA#<!`O,$nm-A#;:U<Fa+8o!
