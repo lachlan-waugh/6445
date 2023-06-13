@@ -8,6 +8,11 @@
 
 &nbsp;
 
+## demos
+* [wierd encoding](/6445/demos/encoding)
+
+&nbsp;
+
 ## useful websites
 * [google.com](https://www.google.com)
 
