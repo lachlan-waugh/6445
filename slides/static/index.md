@@ -1,6 +1,7 @@
 ## slides
-* week-01 [slides](/6445/week01) [~~recording~~]()
-* week-02 [slides](/6445/week02) [~~recording~~]()
+* week-01 [slides](/6445/week01) [recording](https://youtu.be/NuHJcjTiI8Y)
+* week-02 [slides](/6445/week02) [recording](https://youtu.be/I1fQvfanOYw)
+* week-03 [slides](/6445/week03) [~~recording~~]()
 
 &nbsp;
 
