@@ -12,12 +12,14 @@
 
 ## demos
 * [wierd encoding](/6445/demos/encoding)
+* [another one](/6445/demos/anotherone)
 
 &nbsp;
 
 ## useful websites
 * [google.com](https://www.google.com)
 * [cyberchef](https://gchq.github.io/CyberChef/)
+
 &nbsp;
 
 ## Community stuff
