@@ -87,11 +87,13 @@ outputs: ["Reveal"]
 
 > read more [here](https://owasp.org/www-community/attacks/Windows_alternate_data_stream)
 
-{{% /section %}}
+---
 
 
 ### Deleted files
 * what happens for NTFS
+
+{{% /section %}}
 
 ---
 
