@@ -9,7 +9,7 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week01 6445 W19A
+# 6445 Week01
 ### Physical Evidence Handling
 
 ---

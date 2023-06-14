@@ -1,5 +1,5 @@
 ---
-title: "week02: the forensic method/ethics"
+title: "week02: forensic method"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week02
-### COMP6445 W19A
+# 6445 Week02
+### the forensic process
 
 ---
 

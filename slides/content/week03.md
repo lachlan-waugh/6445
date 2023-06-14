@@ -1,5 +1,5 @@
 ---
-title: "Week03"
+title: "week03: filesystems"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week03
-### COMP6445 W19A
+# 6445 week03
+### File Systems and Report Writing
 
 ---
 
