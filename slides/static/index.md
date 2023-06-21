@@ -3,6 +3,7 @@
 * week-01 [slides](/6445/week01) [recording](https://youtu.be/NuHJcjTiI8Y)
 * week-02 [slides](/6445/week02) [recording](https://youtu.be/I1fQvfanOYw)
 * week-03 [slides](/6445/week03) [recording](https://youtu.be/ZbnuaSkrwXE)
+* week-04 [slides](/6445/week04) [recording](https://youtu.be/egeoZ1-4lhw)
 
 &nbsp;
 
