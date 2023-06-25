@@ -57,6 +57,60 @@ outputs: ["Reveal"]
 
 {{% section %}}
 
+### wireshark
+> how to use it
+
+---
+
+### filters
+* there's two types of filters
+    * display filters: match metadata about the packet (e.g. source ip, protocol) 
+    * pattern matching: match content in the filter (e.g. packet bytes/details)
+
+---
+
+### display filters
+* just a boolean expression (similar to C)
+    * `(f_1 eq AAA && f_2 ne BBB) || f_3`
+* you can search by
+    * **protocol** (e.g. `http`) 
+    * **ip** (e.g. `ip.src_host` and `ip.dst_host`)
+    * and a bunch more [here](https://wiki.wireshark.org/DisplayFilters) and [here](https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html)
+
+---
+
+### following conversation
+each packet will be tied to a "conversation"
+* you can follow them by
+    * right clicking a packet > `follow X stream`
+    * filtering for `X.stream eq N`
+
+> `X` would be `TCP` or `UDP`
+
+> `N` would be a number
+
+---
+
+### what should I be looking for
+* wierd IPs being communicated with
+* files being downloaded/uploaded
+* you can look for communicaion made at the same as evidence you found
+
+---
+
+### decrypting traffic
+Some traffic will be encrypted (e.g. SSH/HTTPS), so you won't be able to read the packets
+* Edit > Preferences
+* Protocols > TLS
+
+> There you can you upload the tls/ssl keys to decrypt the traffic
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Report writing
 
 ---
