@@ -4,6 +4,8 @@
 * week-02 [slides](/6445/week02) [recording](https://youtu.be/I1fQvfanOYw)
 * week-03 [slides](/6445/week03) [recording](https://youtu.be/ZbnuaSkrwXE)
 * week-04 [slides](/6445/week04) [recording](https://youtu.be/egeoZ1-4lhw)
+* week-05 [slides](/6445/week05) ~~[recording]()~~
+
 
 &nbsp;
 
