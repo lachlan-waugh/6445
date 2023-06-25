@@ -9,13 +9,34 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week05
-### COMP6445 W19A
+
+# memory forensics
+### comp6445 week05
 
 ---
 
-## Lecture content
 {{% section %}}
+
+### memory forensics
+
+
+---
+
+### collecting memory dumps
+* RAM is volatile, you can't capture it after the computer is shutdown 
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+### volatility
+> cause RAM is volatile lol
+
+---
+
+* command list can be found [here](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
 
 {{% /section %}}
 

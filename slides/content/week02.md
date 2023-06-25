@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# 6445 Week02
-### the forensic process
+# the forensic process
+### comp6445 week02
 
 ---
 

@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week04
-### COMP6445 W19A
+# network forensics
+### comp6445 week04
 
 ---
 

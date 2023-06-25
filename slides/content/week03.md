@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# 6445 week03
-### File Systems and Report Writing
+# file systems
+### comp6445 week03
 
 ---
 

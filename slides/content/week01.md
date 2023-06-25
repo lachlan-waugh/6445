@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# 6445 Week01
-### Physical Evidence Handling
+# physical evidence handling
+### comp6445 week01
 
 ---
 
