@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# {{ replace .Name "-" " " | title }}
-### COMP6445 W19A
+# <TITLE HERE>
+### comp6445 {{ replace .Name "-" " " | title }}
 
 ---
 
