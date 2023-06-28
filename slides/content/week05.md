@@ -16,6 +16,7 @@ outputs: ["Reveal"]
 ---
 
 ### how did you find the report
+> any comments?
 
 ---
 
@@ -37,16 +38,17 @@ outputs: ["Reveal"]
 
 ### when is this useful
 * there's a lot you can't get from a harddisk image
-    * if a program was executed
-    * when it was executed
+    * if/when a program was executed
     * how it was executed (arguments, lifespan)
+
 * some malware never touches the disk
 
 ---
 
 ### fileless malware
-* process hollowing: when a legitimate process is paused, duplicated, and then it's executable memory is replaced with malicious code
 * even if it never touches disk, at some point, it has to be in memory
+* process hollowing: when a legitimate process is paused, duplicated, and then it's executable memory is replaced with malicious code
+* this can bypass simple AVs which ignore whitelisted/trusted services
 
 > read more [here](https://www.trellix.com/en-au/security-awareness/ransomware/what-is-fileless-malware.html) and [here](https://www.crowdstrike.com/cybersecurity-101/malware/fileless-malware/)
 
