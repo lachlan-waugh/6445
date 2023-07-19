@@ -14,6 +14,11 @@ outputs: ["Reveal"]
 
 ---
 
+### report reflection
+* what did you think about them? waht could be improved
+* how do you feel you went? did you improve?
+---
+
 {{% section %}}
 
 ### investigation
@@ -44,16 +49,36 @@ outputs: ["Reveal"]
 ## mobile forensics
 {{% section %}}
 
+### types of extraction
+* logical extraction
+* physical extraction
+
+> what's the difference?
+
+---
+
+### what might you gather from a phone?
+> what are some pieces of information you can get from a phone, but not a harddrive?
+
+---
+
+### what are the difficulties of getting data from phones
+
+---
+
+### what are the difficulties of getting data from phones
+* multiple types of phones (consistency)
+* passwords/encryption
+* remote wipes
+* changing state: receiving messages/calling devices, device syncing with cloud
+* difficulty to completely power down device
+
+---
+
+### what are some methods you could use to seize a device?
+
+---
+
+### how has mobile forensics evolved over time?
+
 {{% /section %}}
-
----
-
-## Demo
-
----
-
-## Tutorial
-
----
-
-## Walkthrough
