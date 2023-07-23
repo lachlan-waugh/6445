@@ -1,25 +1,25 @@
 ## slides
 * [recordings playlist](https://www.youtube.com/playlist?list=PL2xJTaGLKqbsYoz-6Ed491G28aKBC0ZNl)
-* week-01 [slides](/6445/week01) [recording](https://youtu.be/NuHJcjTiI8Y)
+* week-01 [slides](week01) [recording](https://youtu.be/NuHJcjTiI8Y)
 * week-02 [slides](week02) [recording](https://youtu.be/I1fQvfanOYw)
 * week-03 [slides](week03) [recording](https://youtu.be/ZbnuaSkrwXE)
 * week-04 [slides](week04) [recording](https://youtu.be/egeoZ1-4lhw)
 * week-05 [slides](week05) [recording](https://youtu.be/dBz_hNDa-fY)
 * week-07 [slides](week07) [recording](https://youtu.be/m6bfxQ7816M)
-* week-08 [slides](week08) ~~[recording]()~~
+* week-08 [slides](week08) [recording](https://youtu.be/qPrL4RMLcAQ)
 
 
 &nbsp;
 
 ## resources
-* [tooling](/6445/resources/tooling)
+* [tooling](resources/tooling)
 
 &nbsp;
 
 ## demos
-* [wierd encoding](/6445/demos/encoding)
-* [another one](/6445/demos/anotherone)
-* [packet captures](/6445/demos/pcap)
+* [wierd encoding](demos/encoding)
+* [another one](demos/anotherone)
+* [packet captures](demos/pcap)
 
 &nbsp;
 
