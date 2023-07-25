@@ -1,5 +1,5 @@
 ---
-title: "week02: forensic method"
+title: "02: forensic method"
 layout: "bundle"
 outputs: ["Reveal"]
 ---

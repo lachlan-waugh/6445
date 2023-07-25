@@ -1,5 +1,5 @@
 ---
-title: "week03: filesystems"
+title: "03: filesystems"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,7 +9,7 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# file systems
+# file systems && autopsy
 ### comp6445 week03
 
 ---
@@ -18,11 +18,13 @@ outputs: ["Reveal"]
 * FAT32
 * NTFS
 * Ext
+* Autopsy
 
 ---
 
 ### FAT32
 {{% section %}}
+
 * File Allocation Table (FAT)
 * Directory Entries (DE)
 
@@ -61,6 +63,7 @@ outputs: ["Reveal"]
 
 ### NTFS
 {{% section %}}
+
 * $MFT (DEs of NTFS)
 * $BITMAP (FATs of NTFS)
 
@@ -93,8 +96,6 @@ outputs: ["Reveal"]
 ### Deleted files
 * what happens for NTFS
 
-{{% /section %}}
-
 ---
 
 ### Deleted files
@@ -105,10 +106,23 @@ outputs: ["Reveal"]
 
 > until the FILE entry is overwritten, the data is still there
 
+{{% /section %}}
+
 ---
 
 ### Ext
 {{% section %}}
+
+TODO
+
+{{% /section %}}
+
+---
+
+### Autopsy
+{{% section %}}
+
+TODO
 
 {{% /section %}}
 
@@ -119,10 +133,10 @@ outputs: ["Reveal"]
 
 ---
 
-## Investigation
-> Any questions so far?
+## Walkthrough
+> Any questions about last week's investigation
 
 ---
 
-## Walkthrough
-> Any questions about last week's investigation
+## Investigation
+> Any questions so far?
