@@ -7,7 +7,7 @@
 * week-05 [slides](week05) [recording](https://youtu.be/dBz_hNDa-fY)
 * week-07 [slides](week07) [recording](https://youtu.be/m6bfxQ7816M)
 * week-08 [slides](week08) [recording](https://youtu.be/qPrL4RMLcAQ)
-
+* week-09 [slides](week09) [recording](https://youtu.be/oF8SRQkxCMA)
 
 &nbsp;
 

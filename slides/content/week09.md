@@ -93,7 +93,7 @@ Visited websites | wikipedia.org amazon.com bing.com collegelifeweekly.com birdt
 | when     | idk     |
 | -------- | ------- |
 | duration | 3 hours |
-| worth    | 30%     |
+| worth    | 40%     |
 
 ---
 
