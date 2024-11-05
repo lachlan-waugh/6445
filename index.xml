@@ -1,24 +1,690 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TEMPLATE</title><link>/</link><description>Recent content on TEMPLATE</description><generator>Hugo -- gohugo.io</generator><language>en-au</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>01: physical evidence handling</title><link>/week1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week1/</guid><description>We&amp;rsquo;ll get started at 19:05 physical evidence handling comp6445 week01 Good faith policy We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times
-TLDR: Don&amp;rsquo;t be a jerk
-sec.edu.au/good-faith-policy
-&amp;gt; whoami Lachlan how to contact me lachlan.waugh@student.unsw.edu.au @melon on the SecEdu Slack @melon on the SecSoc Discord OpenLearning group (W19A Online) places for course discussion seceduau.</description></item><item><title>02: forensic method</title><link>/week2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week2/</guid><description>We&amp;rsquo;ll get started at 19:05 the forensic process comp6445 week02 Lecture content The forensic process Digital evidence must be collected via a standard, documented, and proven forensic process Forensically sound Which two aspects are required for evidence to be admissible?
-Forensically sound Two aspects for evidence to be admissible? defensible: accepted as industry standard and/or proven to be sound repeatable: well-documented, 3rd party could replicate it with the same results. Drive structure file system: data structure for organisation of files volume: container for a file system sector: smallest storage unit of a drive (512B) clusters: groups of sectors unpartitioned space: .</description></item><item><title>03: filesystems</title><link>/week3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week3/</guid><description>We&amp;rsquo;ll get started at 19:05 file systems &amp;amp;&amp;amp; autopsy comp6445 week03 File systems FAT32 NTFS Ext Autopsy FAT32 File Allocation Table (FAT) Directory Entries (DE) FAT: linked list of statuses of all clusters
-status indicates 0x?0000000 free cluster 0x?0000002 cluster in use (value is next cluster for file) 0x?FFFFFFF cluster in use EOF marker Deleted files what happens to file contents when a file is deleted what else happens (specifically in FAT?</description></item><item><title>04: timeline analysis</title><link>/week4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week4/</guid><description>We&amp;rsquo;ll get started at 19:05 timeline analysis &amp;amp;&amp;amp; report writing comp6445 week04 timeline analysis TODO
-report writing What not to do Be overly verbose
-Make stuff up (I did the same investigation)
-Speak outside of your competence
-Make a decision too hastily
-Review Bad report
-What to do Document the process
-Explain why you did certain things
-Explain what the evidence means
-Align the evidence
-Review My report (also bad)</description></item><item><title>05: network forensics</title><link>/week5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week5/</guid><description>We&amp;rsquo;ll get started at 19:05 network forensics comp6445 week05 house keeping report feedback investigation reflections how did you find the report any comments?
-Investigation TODO reflections avg: 75%
-quite a few people haven&amp;rsquo;t been doing these literally just do them? if write a reasonable amount you&amp;rsquo;ll get the marks it takes no time and it&amp;rsquo;s worth 10% overall Mindset a lot of people seem to be struggling with this don&amp;rsquo;t just blindly investigate the image google to find where interesting things could be use your intuition for where you might find things (e.</description></item><item><title>07: memory forensics</title><link>/week7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week7/</guid><description>We&amp;rsquo;ll get started at 19:05 memory forensics comp6445 week07 house keeping investigation report feedback investigation device last used 27/07/2021 (check the timeline feature in autopsy) file system used HFS+ (check the partition table) who owns device Joan Sally Smith (bunch of stuff in the user account directory) are you certain no (you can never be) fs version HFS+ 4 (volume header section contains HFSPlusVolumeHeader) harder questions user&amp;rsquo;s password PaSsWoRd (crack the keychain with johntheripper) hidden passwords bobbytables (header of /&amp;hellip;/Document/agocbaqa0h341) correcthorsebatterystaple (in the file /&amp;hellip;/Document/gpj.</description></item><item><title>08: mobile forensics</title><link>/week8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week8/</guid><description>We&amp;rsquo;ll get started at 19:05 mobile forensics comp6445 week08 report reflection what did you think about them? waht could be improved how do you feel you went? did you improve? investigation memory profile WinXPSP2x86 (woops vol3 doesn&amp;rsquo;t use these) nt hash 31d6cfe0d16ae931b73c59d7e0c089c0 password antivirus no keylogger pid 2360 (I showed this) investigation p2 keylogger installed? can&amp;rsquo;t tell keylogger running? no remote access? 5800;5900 memory sample? mdd_1.3.exe mobile forensics types of extraction logical extraction physical extraction what&amp;rsquo;s the difference?</description></item><item><title>09: review</title><link>/week9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week9/</guid><description>We&amp;rsquo;ll get started at 19:05 course review comp6445 week09 house keeping investigation report feedback court case myexperience investigation we literally did this during the tute if you don&amp;rsquo;t get full marks im calling the police report feedback yeah I didn&amp;rsquo;t marks yours marks should come out next week solutions question answer Visited websites wikipedia.org amazon.com bing.com collegelifeweekly.com birdtrader.co.uk internationalowlcenter.org yahoo.com google.com Skype email mcavoy87@gmail.com Video app musical.ly solutions question answer New name TikTok Skype name generalhaze28 Delivery 1900 Response Thank you!</description></item><item><title>Week04</title><link>/week4e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week4e/</guid><description>We&amp;rsquo;ll get started at 19:05 Week04 COMP6445 W19A Network forensics What is a packet? a chunk of data, forming part of a complete message
-max packet size is about 65kb, so what happens when you stream a movie
-What is in a packet All packets contain a header and a payload
-Payload is all the data
-Header contains any metadata (e.g. length, protocol, source, destination)
-OSI What What is a packet capture?</description></item><item><title>Week10</title><link>/week10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/week10/</guid><description>We&amp;rsquo;ll get started at 19:05 course review comp6445 Week10 myexperience pls don&amp;rsquo;t roast me
-among us?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TEMPLATE</title><link>/</link><description>Recent content on TEMPLATE</description><generator>Hugo</generator><language>en-au</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>01: physical evidence handling</title><link>/1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="physical-evidence-handling">physical evidence handling&lt;/h1>
+&lt;h3 id="comp6445-week01">comp6445 week01&lt;/h3>
+&lt;hr>
+&lt;h2 id="good-faith-policy">Good faith policy&lt;/h2>
+&lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
+&lt;p>&lt;em>TLDR: Don&amp;rsquo;t be a jerk&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/p>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="-whoami">&amp;gt; whoami&lt;/h2>
+&lt;ul>
+&lt;li>Lachlan&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="how-to-contact-me">how to contact me&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="mailto:lachlan.waugh@student.unsw.edu.au">lachlan.waugh@student.unsw.edu.au&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">@melon&lt;/a> on the SecEdu Slack&lt;/li>
+&lt;li>&lt;a href="">@melon&lt;/a> on the SecSoc Discord&lt;/li>
+&lt;li>OpenLearning group (W19A Online)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="places-for-course-discussion">places for course discussion&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://seceduau.slack.com/signup">seceduau.slack.com/signup&lt;/a>
+&lt;ul>
+&lt;li>#cs6445&lt;/li>
+&lt;li>#cs6445-23t1-w19a&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="idk">discord.gg/???&lt;/a>
+&lt;ul>
+&lt;li>comp6445-6845 (under security)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="where-to-access-resources">where to access resources&lt;/h2>
+&lt;ul>
+&lt;li>slides/recordings &lt;a href="">waugh.zip/6445&lt;/a>&lt;/li>
+&lt;li>my course notes (not all of them) &lt;a href="https://waugh.zip/notes/comp/6845/">waugh.zip/notes/comp/6845&lt;/a>&lt;/li>
+&lt;/ul>
+
+&lt;/section>
+&lt;hr>
+&lt;h2 id="-whoareu">&amp;gt; whoareu&lt;/h2>
+
+
+&lt;section data-shortcode-section>
+&lt;p>&lt;img src="../img/week01/icebreaker.jpg" alt="">&lt;/p></description></item><item><title>02: forensic method</title><link>/2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="the-forensic-process">the forensic process&lt;/h1>
+&lt;h3 id="comp6445-week02">comp6445 week02&lt;/h3>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="lecture-content">Lecture content&lt;/h2>
+&lt;hr>
+&lt;h2 id="the-forensic-process">The forensic process&lt;/h2>
+&lt;ul>
+&lt;li>Digital evidence must be collected via a standard, documented, and proven forensic process&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="forensically-sound">Forensically sound&lt;/h2>
+&lt;blockquote>
+&lt;p>Which two aspects are required for evidence to be admissible?&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="forensically-sound-1">Forensically sound&lt;/h2>
+&lt;ul>
+&lt;li>Two aspects for evidence to be admissible?
+&lt;ul>
+&lt;li>&lt;strong>defensible&lt;/strong>: accepted as industry standard and/or proven to be sound&lt;/li>
+&lt;li>&lt;strong>repeatable&lt;/strong>: well-documented, 3rd party could replicate it with the same results.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="drive-structure">Drive structure&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>file system&lt;/strong>: data structure for organisation of files&lt;/li>
+&lt;li>&lt;strong>volume&lt;/strong>: container for a file system&lt;/li>
+&lt;li>&lt;strong>sector&lt;/strong>: smallest storage unit of a drive (512B)&lt;/li>
+&lt;li>&lt;strong>clusters&lt;/strong>: groups of sectors&lt;/li>
+&lt;li>&lt;strong>unpartitioned space&lt;/strong>: .&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>harddrive: &lt;a href="https://www.youtube.com/watch?v=JcJSW7Rprio">meme&lt;/a>&lt;/p></description></item><item><title>03: filesystems</title><link>/3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/3/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="file-systems--autopsy">file systems &amp;amp;&amp;amp; autopsy&lt;/h1>
+&lt;h3 id="comp6445-week03">comp6445 week03&lt;/h3>
+&lt;hr>
+&lt;h2 id="file-systems">File systems&lt;/h2>
+&lt;ul>
+&lt;li>FAT32&lt;/li>
+&lt;li>NTFS&lt;/li>
+&lt;li>Ext&lt;/li>
+&lt;li>Autopsy&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="fat32">FAT32&lt;/h3>
+
+
+&lt;section data-shortcode-section>
+&lt;ul>
+&lt;li>File Allocation Table (FAT)&lt;/li>
+&lt;li>Directory Entries (DE)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;img src="./assets/img/week03/fat32.png" alt="">&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>FAT: linked list of statuses of all clusters&lt;/p>
+&lt;/blockquote>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>status&lt;/th>
+ &lt;th>indicates&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>0x?0000000&lt;/code>&lt;/td>
+ &lt;td>free cluster&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>0x?0000002&lt;/code>&lt;/td>
+ &lt;td>cluster in use (value is next cluster for file)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>0x?FFFFFFF&lt;/code>&lt;/td>
+ &lt;td>cluster in use EOF marker&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="deleted-files">Deleted files&lt;/h3>
+&lt;ul>
+&lt;li>what happens to file contents when a file is deleted&lt;/li>
+&lt;li>what else happens (specifically in FAT?)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="deleted-files-1">Deleted files&lt;/h3>
+&lt;ul>
+&lt;li>what else happens (specifically in FAT?)
+&lt;ul>
+&lt;li>first character in filename changed to &lt;code>0xe5&lt;/code>&lt;/li>
+&lt;li>all clusters in FAT replaced with &lt;code>0x00&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>why are these important&lt;/p></description></item><item><title>04: timeline analysis</title><link>/4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="timeline-analysis--report-writing">timeline analysis &amp;amp;&amp;amp; report writing&lt;/h1>
+&lt;h3 id="comp6445-week04">comp6445 week04&lt;/h3>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="timeline-analysis">timeline analysis&lt;/h2>
+&lt;hr>
+&lt;p>TODO&lt;/p>
+
+&lt;/section>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="report-writing">report writing&lt;/h2>
+&lt;hr>
+&lt;h3 id="what-not-to-do">What not to do&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Be overly verbose&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Make stuff up (I did the same investigation)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Speak outside of your competence&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Make a decision too hastily&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="review">Review&lt;/h3>
+&lt;blockquote>
+&lt;p>Bad report&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="what-to-do">What to do&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Document the process&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Explain why you did certain things&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Explain what the evidence means&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Align the evidence&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="review-1">Review&lt;/h3>
+&lt;blockquote>
+&lt;p>My report (also bad)&lt;/p></description></item><item><title>05: network forensics</title><link>/5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/5/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="network-forensics">network forensics&lt;/h1>
+&lt;h3 id="comp6445-week05">comp6445 week05&lt;/h3>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="house-keeping">house keeping&lt;/h3>
+&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
+&lt;ul>
+&lt;li>report feedback&lt;/li>
+&lt;li>investigation&lt;/li>
+&lt;li>reflections&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="how-did-you-find-the-report">how did you find the report&lt;/h3>
+&lt;blockquote>
+&lt;p>any comments?&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="investigation">Investigation&lt;/h3>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="reflections">reflections&lt;/h3>
+&lt;p>avg: &lt;code>75%&lt;/code>&lt;/p>
+&lt;ul>
+&lt;li>quite a few people haven&amp;rsquo;t been doing these&lt;/li>
+&lt;li>literally just do them?&lt;/li>
+&lt;li>if write a reasonable amount you&amp;rsquo;ll get the marks&lt;/li>
+&lt;li>it takes no time and it&amp;rsquo;s worth 10% overall&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="mindset">Mindset&lt;/h3>
+&lt;ul>
+&lt;li>a lot of people seem to be struggling with this&lt;/li>
+&lt;li>don&amp;rsquo;t just blindly investigate the image&lt;/li>
+&lt;li>google to find where interesting things could be&lt;/li>
+&lt;li>use your intuition for where you might find things (e.g. Documents/Downloads/Recycling Bin)&lt;/li>
+&lt;/ul>
+
+&lt;/section>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="network-forensics">Network forensics&lt;/h2>
+&lt;hr>
+&lt;h3 id="what-is-a-packet">What is a packet?&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>a chunk of data, forming part of a complete message&lt;/p></description></item><item><title>07: memory forensics</title><link>/7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="memory-forensics">memory forensics&lt;/h1>
+&lt;h3 id="comp6445-week07">comp6445 week07&lt;/h3>
+&lt;hr>
+&lt;h3 id="house-keeping">house keeping&lt;/h3>
+&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
+&lt;ul>
+&lt;li>investigation&lt;/li>
+&lt;li>report feedback&lt;/li>
+&lt;/ul>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="investigation">investigation&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>device last used&lt;/td>
+ &lt;td>27/07/2021 (check the timeline feature in autopsy)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>file system used&lt;/td>
+ &lt;td>HFS+ (check the partition table)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>who owns device&lt;/td>
+ &lt;td>Joan Sally Smith (bunch of stuff in the user account directory)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>are you certain&lt;/td>
+ &lt;td>no (you can never be)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>fs version&lt;/td>
+ &lt;td>HFS+ 4 (volume header section contains HFSPlusVolumeHeader)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="harder-questions">harder questions&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>user&amp;rsquo;s password&lt;/td>
+ &lt;td>PaSsWoRd (crack the keychain with &lt;a href="https://int0x33.medium.com/day-68-crack-file-key-and-keychain-passwords-with-john-8aeb5df34a54">johntheripper&lt;/a>)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>hidden passwords&lt;/td>
+ &lt;td>bobbytables (header of /&amp;hellip;/Document/agocbaqa0h341)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>correcthorsebatterystaple (in the file /&amp;hellip;/Document/gpj.10mhk4pc3paw0)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>secrets in keychain&lt;/td>
+ &lt;td>SuperSecret:IShouldBeUsingMFAIn2021 (&lt;a href="https://github.com/n0fate/chainbreaker">chainbreaker&lt;/a> with user&amp;rsquo;s password)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;/section>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="report-feedback">report feedback&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Report AVG&lt;/td>
+ &lt;td>&lt;code>74.85%&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Reflection AVG&lt;/td>
+ &lt;td>&lt;code>61.88%&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Overall&lt;/td>
+ &lt;td>&lt;code>71.11%&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="findings">findings&lt;/h3>
+&lt;p>84%&lt;/p></description></item><item><title>08: mobile forensics</title><link>/8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/8/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="mobile-forensics">mobile forensics&lt;/h1>
+&lt;h3 id="comp6445-week08">comp6445 week08&lt;/h3>
+&lt;hr>
+&lt;h3 id="report-reflection">report reflection&lt;/h3>
+&lt;ul>
+&lt;li>what did you think about them? waht could be improved&lt;/li>
+&lt;li>how do you feel you went? did you improve?&lt;/li>
+&lt;/ul>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="investigation">investigation&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>memory profile&lt;/td>
+ &lt;td>WinXPSP2x86 (woops vol3 doesn&amp;rsquo;t use these)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>nt hash&lt;/td>
+ &lt;td>31d6cfe0d16ae931b73c59d7e0c089c0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>password&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>antivirus&lt;/td>
+ &lt;td>no&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>keylogger pid&lt;/td>
+ &lt;td>2360 (I showed this)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="investigation-p2">investigation p2&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>keylogger installed?&lt;/td>
+ &lt;td>can&amp;rsquo;t tell&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>keylogger running?&lt;/td>
+ &lt;td>no&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>remote access?&lt;/td>
+ &lt;td>5800;5900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>memory sample?&lt;/td>
+ &lt;td>mdd_1.3.exe&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;/section>
+&lt;hr>
+&lt;h2 id="mobile-forensics-1">mobile forensics&lt;/h2>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="types-of-extraction">types of extraction&lt;/h3>
+&lt;ul>
+&lt;li>logical extraction&lt;/li>
+&lt;li>physical extraction&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>what&amp;rsquo;s the difference?&lt;/p></description></item><item><title>09: review</title><link>/9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/9/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="course-review">course review&lt;/h1>
+&lt;h3 id="comp6445-week09">comp6445 week09&lt;/h3>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="house-keeping">house keeping&lt;/h3>
+&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
+&lt;ul>
+&lt;li>investigation&lt;/li>
+&lt;li>report feedback&lt;/li>
+&lt;li>court case&lt;/li>
+&lt;li>myexperience&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="investigation">investigation&lt;/h3>
+&lt;ul>
+&lt;li>we literally did this during the tute&lt;/li>
+&lt;li>if you don&amp;rsquo;t get full marks im calling the police&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="report-feedback">report feedback&lt;/h3>
+&lt;ul>
+&lt;li>yeah I didn&amp;rsquo;t marks yours&lt;/li>
+&lt;li>marks should come out next week&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="solutions">solutions&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>question&lt;/th>
+ &lt;th>answer&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Visited websites&lt;/td>
+ &lt;td>wikipedia.org amazon.com bing.com collegelifeweekly.com birdtrader.co.uk internationalowlcenter.org yahoo.com google.com&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Skype email&lt;/td>
+ &lt;td>&lt;a href="mailto:mcavoy87@gmail.com">mcavoy87@gmail.com&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Video app&lt;/td>
+ &lt;td>musical.ly&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h4 id="solutions-1">solutions&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>question&lt;/th>
+ &lt;th>answer&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>New name&lt;/td>
+ &lt;td>TikTok&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Skype name&lt;/td>
+ &lt;td>generalhaze28&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Delivery&lt;/td>
+ &lt;td>1900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Response&lt;/td>
+ &lt;td>Thank you!&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Location&lt;/td>
+ &lt;td>Harris Riverfront Park&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h4 id="solutions-2">solutions&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>question&lt;/th>
+ &lt;th>answer&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Search&lt;/td>
+ &lt;td>Huntington, West Virginia, 25701&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>CMLocker&lt;/td>
+ &lt;td>17/02/03 12:15&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Timezone&lt;/td>
+ &lt;td>-5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>contacts&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>smcavoy32&lt;/td>
+ &lt;td>/vol31/system/recent_images/110_task_thumbnail.png&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="court-case">court case&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>when&lt;/th>
+ &lt;th>monday wk10, 6-8:30pm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>where&lt;/td>
+ &lt;td>Law Theatre G23&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>compulsory&lt;/td>
+ &lt;td>no&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>who can attend&lt;/td>
+ &lt;td>anyone&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>pizza&lt;/td>
+ &lt;td>party&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>Come along, it&amp;rsquo;ll be fun&lt;/p></description></item><item><title>Week04</title><link>/4e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4e/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="week04">Week04&lt;/h1>
+&lt;h3 id="comp6445-w19a">COMP6445 W19A&lt;/h3>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="network-forensics">Network forensics&lt;/h2>
+&lt;hr>
+&lt;h3 id="what-is-a-packet">What is a packet?&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>a chunk of data, forming part of a complete message&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>max packet size is about 65kb, so what happens when you stream a movie&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="what-is-in-a-packet">What is in a packet&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>All packets contain a header and a payload&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Payload is all the data&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Header contains any metadata (e.g. length, protocol, source, destination)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="osi-what">OSI What&lt;/h3>
+&lt;p>&lt;img src="./assets/img/week04/osi_model.jpg" alt="">&lt;/p></description></item><item><title>Week10</title><link>/10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/10/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="course-review">course review&lt;/h1>
+&lt;h3 id="comp6445-week10">comp6445 Week10&lt;/h3>
+&lt;hr>
+&lt;h3 id="myexperience">myexperience&lt;/h3>
+&lt;blockquote>
+&lt;p>pls don&amp;rsquo;t roast me&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="among">among&lt;/h3>
+&lt;p>us?&lt;/p></description></item></channel></rss>
