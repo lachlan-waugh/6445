@@ -1,690 +1,632 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TEMPLATE</title><link>/</link><description>Recent content on TEMPLATE</description><generator>Hugo</generator><language>en-au</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>01: physical evidence handling</title><link>/1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TEMPLATE</title><link>/</link><description>Recent content on TEMPLATE</description><generator>Hugo</generator><language>en-au</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>01: physical evidence handling</title><link>/1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="physical-evidence-handling">physical evidence handling&lt;/h1>
-&lt;h3 id="comp6445-week01">comp6445 week01&lt;/h3>
-&lt;hr>
-&lt;h2 id="good-faith-policy">Good faith policy&lt;/h2>
-&lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
-&lt;p>&lt;em>TLDR: Don&amp;rsquo;t be a jerk&lt;/em>&lt;/p>
-&lt;p>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/p>
-&lt;hr>
+&lt;h1 id="physical-evidence-handling"&gt;physical evidence handling&lt;/h1&gt;
+&lt;h3 id="comp6445-week01"&gt;comp6445 week01&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id="good-faith-policy"&gt;Good faith policy&lt;/h2&gt;
+&lt;p&gt;We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TLDR: Don&amp;rsquo;t be a jerk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sec.edu.au/good-faith-policy"&gt;sec.edu.au/good-faith-policy&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="-whoami">&amp;gt; whoami&lt;/h2>
-&lt;ul>
-&lt;li>Lachlan&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="how-to-contact-me">how to contact me&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="mailto:lachlan.waugh@student.unsw.edu.au">lachlan.waugh@student.unsw.edu.au&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">@melon&lt;/a> on the SecEdu Slack&lt;/li>
-&lt;li>&lt;a href="">@melon&lt;/a> on the SecSoc Discord&lt;/li>
-&lt;li>OpenLearning group (W19A Online)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="places-for-course-discussion">places for course discussion&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://seceduau.slack.com/signup">seceduau.slack.com/signup&lt;/a>
-&lt;ul>
-&lt;li>#cs6445&lt;/li>
-&lt;li>#cs6445-23t1-w19a&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="idk">discord.gg/???&lt;/a>
-&lt;ul>
-&lt;li>comp6445-6845 (under security)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="where-to-access-resources">where to access resources&lt;/h2>
-&lt;ul>
-&lt;li>slides/recordings &lt;a href="">waugh.zip/6445&lt;/a>&lt;/li>
-&lt;li>my course notes (not all of them) &lt;a href="https://waugh.zip/notes/comp/6845/">waugh.zip/notes/comp/6845&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="-whoami"&gt;&amp;gt; whoami&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lachlan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="how-to-contact-me"&gt;how to contact me&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:lachlan.waugh@student.unsw.edu.au"&gt;lachlan.waugh@student.unsw.edu.au&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;@melon&lt;/a&gt; on the SecEdu Slack&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;@melon&lt;/a&gt; on the SecSoc Discord&lt;/li&gt;
+&lt;li&gt;OpenLearning group (W19A Online)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="places-for-course-discussion"&gt;places for course discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://seceduau.slack.com/signup"&gt;seceduau.slack.com/signup&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;#cs6445&lt;/li&gt;
+&lt;li&gt;#cs6445-23t1-w19a&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="idk"&gt;discord.gg/???&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;comp6445-6845 (under security)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="where-to-access-resources"&gt;where to access resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;slides/recordings &lt;a href=""&gt;waugh.zip/6445&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my course notes (not all of them) &lt;a href="https://waugh.zip/notes/comp/6845/"&gt;waugh.zip/notes/comp/6845&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;/section>
-&lt;hr>
-&lt;h2 id="-whoareu">&amp;gt; whoareu&lt;/h2>
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;h2 id="-whoareu"&gt;&amp;gt; whoareu&lt;/h2&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;p>&lt;img src="../img/week01/icebreaker.jpg" alt="">&lt;/p></description></item><item><title>02: forensic method</title><link>/2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;img src="../img/week01/icebreaker.jpg" alt=""&gt;&lt;/p&gt;</description></item><item><title>02: forensic method</title><link>/2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="the-forensic-process">the forensic process&lt;/h1>
-&lt;h3 id="comp6445-week02">comp6445 week02&lt;/h3>
-&lt;hr>
+&lt;h1 id="the-forensic-process"&gt;the forensic process&lt;/h1&gt;
+&lt;h3 id="comp6445-week02"&gt;comp6445 week02&lt;/h3&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="lecture-content">Lecture content&lt;/h2>
-&lt;hr>
-&lt;h2 id="the-forensic-process">The forensic process&lt;/h2>
-&lt;ul>
-&lt;li>Digital evidence must be collected via a standard, documented, and proven forensic process&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="forensically-sound">Forensically sound&lt;/h2>
-&lt;blockquote>
-&lt;p>Which two aspects are required for evidence to be admissible?&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="forensically-sound-1">Forensically sound&lt;/h2>
-&lt;ul>
-&lt;li>Two aspects for evidence to be admissible?
-&lt;ul>
-&lt;li>&lt;strong>defensible&lt;/strong>: accepted as industry standard and/or proven to be sound&lt;/li>
-&lt;li>&lt;strong>repeatable&lt;/strong>: well-documented, 3rd party could replicate it with the same results.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="drive-structure">Drive structure&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>file system&lt;/strong>: data structure for organisation of files&lt;/li>
-&lt;li>&lt;strong>volume&lt;/strong>: container for a file system&lt;/li>
-&lt;li>&lt;strong>sector&lt;/strong>: smallest storage unit of a drive (512B)&lt;/li>
-&lt;li>&lt;strong>clusters&lt;/strong>: groups of sectors&lt;/li>
-&lt;li>&lt;strong>unpartitioned space&lt;/strong>: .&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>harddrive: &lt;a href="https://www.youtube.com/watch?v=JcJSW7Rprio">meme&lt;/a>&lt;/p></description></item><item><title>03: filesystems</title><link>/3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/3/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="lecture-content"&gt;Lecture content&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id="the-forensic-process"&gt;The forensic process&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital evidence must be collected via a standard, documented, and proven forensic process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="forensically-sound"&gt;Forensically sound&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Which two aspects are required for evidence to be admissible?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="forensically-sound-1"&gt;Forensically sound&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Two aspects for evidence to be admissible?
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;defensible&lt;/strong&gt;: accepted as industry standard and/or proven to be sound&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;repeatable&lt;/strong&gt;: well-documented, 3rd party could replicate it with the same results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="drive-structure"&gt;Drive structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;file system&lt;/strong&gt;: data structure for organisation of files&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;volume&lt;/strong&gt;: container for a file system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sector&lt;/strong&gt;: smallest storage unit of a drive (512B)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;clusters&lt;/strong&gt;: groups of sectors&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;unpartitioned space&lt;/strong&gt;: .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;harddrive: &lt;a href="https://www.youtube.com/watch?v=JcJSW7Rprio"&gt;meme&lt;/a&gt;&lt;/p&gt;</description></item><item><title>03: filesystems</title><link>/3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/3/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="file-systems--autopsy">file systems &amp;amp;&amp;amp; autopsy&lt;/h1>
-&lt;h3 id="comp6445-week03">comp6445 week03&lt;/h3>
-&lt;hr>
-&lt;h2 id="file-systems">File systems&lt;/h2>
-&lt;ul>
-&lt;li>FAT32&lt;/li>
-&lt;li>NTFS&lt;/li>
-&lt;li>Ext&lt;/li>
-&lt;li>Autopsy&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="fat32">FAT32&lt;/h3>
+&lt;h1 id="file-systems--autopsy"&gt;file systems &amp;amp;&amp;amp; autopsy&lt;/h1&gt;
+&lt;h3 id="comp6445-week03"&gt;comp6445 week03&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id="file-systems"&gt;File systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;FAT32&lt;/li&gt;
+&lt;li&gt;NTFS&lt;/li&gt;
+&lt;li&gt;Ext&lt;/li&gt;
+&lt;li&gt;Autopsy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="fat32"&gt;FAT32&lt;/h3&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;ul>
-&lt;li>File Allocation Table (FAT)&lt;/li>
-&lt;li>Directory Entries (DE)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;img src="./assets/img/week03/fat32.png" alt="">&lt;/p>
-&lt;hr>
-&lt;blockquote>
-&lt;p>FAT: linked list of statuses of all clusters&lt;/p>
-&lt;/blockquote>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>status&lt;/th>
- &lt;th>indicates&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;code>0x?0000000&lt;/code>&lt;/td>
- &lt;td>free cluster&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;code>0x?0000002&lt;/code>&lt;/td>
- &lt;td>cluster in use (value is next cluster for file)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;code>0x?FFFFFFF&lt;/code>&lt;/td>
- &lt;td>cluster in use EOF marker&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h3 id="deleted-files">Deleted files&lt;/h3>
-&lt;ul>
-&lt;li>what happens to file contents when a file is deleted&lt;/li>
-&lt;li>what else happens (specifically in FAT?)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="deleted-files-1">Deleted files&lt;/h3>
-&lt;ul>
-&lt;li>what else happens (specifically in FAT?)
-&lt;ul>
-&lt;li>first character in filename changed to &lt;code>0xe5&lt;/code>&lt;/li>
-&lt;li>all clusters in FAT replaced with &lt;code>0x00&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>why are these important&lt;/p></description></item><item><title>04: timeline analysis</title><link>/4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;ul&gt;
+&lt;li&gt;File Allocation Table (FAT)&lt;/li&gt;
+&lt;li&gt;Directory Entries (DE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src="./assets/img/week03/fat32.png" alt=""&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;FAT: linked list of statuses of all clusters&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;status&lt;/th&gt;
+ &lt;th&gt;indicates&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;code&gt;0x?0000000&lt;/code&gt;&lt;/td&gt;
+ &lt;td&gt;free cluster&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;code&gt;0x?0000002&lt;/code&gt;&lt;/td&gt;
+ &lt;td&gt;cluster in use (value is next cluster for file)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;code&gt;0x?FFFFFFF&lt;/code&gt;&lt;/td&gt;
+ &lt;td&gt;cluster in use EOF marker&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id="deleted-files"&gt;Deleted files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;what happens to file contents when a file is deleted&lt;/li&gt;
+&lt;li&gt;what else happens (specifically in FAT?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="deleted-files-1"&gt;Deleted files&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;what else happens (specifically in FAT?)
+&lt;ul&gt;
+&lt;li&gt;first character in filename changed to &lt;code&gt;0xe5&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;all clusters in FAT replaced with &lt;code&gt;0x00&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;why are these important&lt;/p&gt;</description></item><item><title>04: timeline analysis</title><link>/4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="timeline-analysis--report-writing">timeline analysis &amp;amp;&amp;amp; report writing&lt;/h1>
-&lt;h3 id="comp6445-week04">comp6445 week04&lt;/h3>
-&lt;hr>
+&lt;h1 id="timeline-analysis--report-writing"&gt;timeline analysis &amp;amp;&amp;amp; report writing&lt;/h1&gt;
+&lt;h3 id="comp6445-week04"&gt;comp6445 week04&lt;/h3&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="timeline-analysis">timeline analysis&lt;/h2>
-&lt;hr>
-&lt;p>TODO&lt;/p>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="timeline-analysis"&gt;timeline analysis&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;TODO&lt;/p&gt;
 
-&lt;/section>
-&lt;hr>
+&lt;/section&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="report-writing">report writing&lt;/h2>
-&lt;hr>
-&lt;h3 id="what-not-to-do">What not to do&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Be overly verbose&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Make stuff up (I did the same investigation)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Speak outside of your competence&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Make a decision too hastily&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="review">Review&lt;/h3>
-&lt;blockquote>
-&lt;p>Bad report&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h3 id="what-to-do">What to do&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Document the process&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Explain why you did certain things&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Explain what the evidence means&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Align the evidence&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="review-1">Review&lt;/h3>
-&lt;blockquote>
-&lt;p>My report (also bad)&lt;/p></description></item><item><title>05: network forensics</title><link>/5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/5/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="report-writing"&gt;report writing&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id="what-not-to-do"&gt;What not to do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Be overly verbose&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make stuff up (I did the same investigation)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Speak outside of your competence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make a decision too hastily&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="review"&gt;Review&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bad report&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id="what-to-do"&gt;What to do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Document the process&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explain why you did certain things&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explain what the evidence means&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Align the evidence&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="review-1"&gt;Review&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My report (also bad)&lt;/p&gt;</description></item><item><title>05: network forensics</title><link>/5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/5/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="network-forensics">network forensics&lt;/h1>
-&lt;h3 id="comp6445-week05">comp6445 week05&lt;/h3>
-&lt;hr>
+&lt;h1 id="network-forensics"&gt;network forensics&lt;/h1&gt;
+&lt;h3 id="comp6445-week05"&gt;comp6445 week05&lt;/h3&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h3 id="house-keeping">house keeping&lt;/h3>
-&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
-&lt;ul>
-&lt;li>report feedback&lt;/li>
-&lt;li>investigation&lt;/li>
-&lt;li>reflections&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="how-did-you-find-the-report">how did you find the report&lt;/h3>
-&lt;blockquote>
-&lt;p>any comments?&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h3 id="investigation">Investigation&lt;/h3>
-&lt;ul>
-&lt;li>TODO&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="reflections">reflections&lt;/h3>
-&lt;p>avg: &lt;code>75%&lt;/code>&lt;/p>
-&lt;ul>
-&lt;li>quite a few people haven&amp;rsquo;t been doing these&lt;/li>
-&lt;li>literally just do them?&lt;/li>
-&lt;li>if write a reasonable amount you&amp;rsquo;ll get the marks&lt;/li>
-&lt;li>it takes no time and it&amp;rsquo;s worth 10% overall&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="mindset">Mindset&lt;/h3>
-&lt;ul>
-&lt;li>a lot of people seem to be struggling with this&lt;/li>
-&lt;li>don&amp;rsquo;t just blindly investigate the image&lt;/li>
-&lt;li>google to find where interesting things could be&lt;/li>
-&lt;li>use your intuition for where you might find things (e.g. Documents/Downloads/Recycling Bin)&lt;/li>
-&lt;/ul>
+&lt;section data-shortcode-section&gt;
+&lt;h3 id="house-keeping"&gt;house keeping&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt=""&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;report feedback&lt;/li&gt;
+&lt;li&gt;investigation&lt;/li&gt;
+&lt;li&gt;reflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="how-did-you-find-the-report"&gt;how did you find the report&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;any comments?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id="investigation"&gt;Investigation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TODO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="reflections"&gt;reflections&lt;/h3&gt;
+&lt;p&gt;avg: &lt;code&gt;75%&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;quite a few people haven&amp;rsquo;t been doing these&lt;/li&gt;
+&lt;li&gt;literally just do them?&lt;/li&gt;
+&lt;li&gt;if write a reasonable amount you&amp;rsquo;ll get the marks&lt;/li&gt;
+&lt;li&gt;it takes no time and it&amp;rsquo;s worth 10% overall&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="mindset"&gt;Mindset&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;a lot of people seem to be struggling with this&lt;/li&gt;
+&lt;li&gt;don&amp;rsquo;t just blindly investigate the image&lt;/li&gt;
+&lt;li&gt;google to find where interesting things could be&lt;/li&gt;
+&lt;li&gt;use your intuition for where you might find things (e.g. Documents/Downloads/Recycling Bin)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;/section>
-&lt;hr>
+&lt;/section&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="network-forensics">Network forensics&lt;/h2>
-&lt;hr>
-&lt;h3 id="what-is-a-packet">What is a packet?&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>a chunk of data, forming part of a complete message&lt;/p></description></item><item><title>07: memory forensics</title><link>/7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="network-forensics"&gt;Network forensics&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id="what-is-a-packet"&gt;What is a packet?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a chunk of data, forming part of a complete message&lt;/p&gt;</description></item><item><title>07: memory forensics</title><link>/7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="memory-forensics">memory forensics&lt;/h1>
-&lt;h3 id="comp6445-week07">comp6445 week07&lt;/h3>
-&lt;hr>
-&lt;h3 id="house-keeping">house keeping&lt;/h3>
-&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
-&lt;ul>
-&lt;li>investigation&lt;/li>
-&lt;li>report feedback&lt;/li>
-&lt;/ul>
-&lt;hr>
+&lt;h1 id="memory-forensics"&gt;memory forensics&lt;/h1&gt;
+&lt;h3 id="comp6445-week07"&gt;comp6445 week07&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id="house-keeping"&gt;house keeping&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt=""&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;investigation&lt;/li&gt;
+&lt;li&gt;report feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h3 id="investigation">investigation&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>device last used&lt;/td>
- &lt;td>27/07/2021 (check the timeline feature in autopsy)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>file system used&lt;/td>
- &lt;td>HFS+ (check the partition table)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>who owns device&lt;/td>
- &lt;td>Joan Sally Smith (bunch of stuff in the user account directory)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>are you certain&lt;/td>
- &lt;td>no (you can never be)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>fs version&lt;/td>
- &lt;td>HFS+ 4 (volume header section contains HFSPlusVolumeHeader)&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h3 id="harder-questions">harder questions&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>user&amp;rsquo;s password&lt;/td>
- &lt;td>PaSsWoRd (crack the keychain with &lt;a href="https://int0x33.medium.com/day-68-crack-file-key-and-keychain-passwords-with-john-8aeb5df34a54">johntheripper&lt;/a>)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>hidden passwords&lt;/td>
- &lt;td>bobbytables (header of /&amp;hellip;/Document/agocbaqa0h341)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>correcthorsebatterystaple (in the file /&amp;hellip;/Document/gpj.10mhk4pc3paw0)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>secrets in keychain&lt;/td>
- &lt;td>SuperSecret:IShouldBeUsingMFAIn2021 (&lt;a href="https://github.com/n0fate/chainbreaker">chainbreaker&lt;/a> with user&amp;rsquo;s password)&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
+&lt;section data-shortcode-section&gt;
+&lt;h3 id="investigation"&gt;investigation&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;device last used&lt;/td&gt;
+ &lt;td&gt;27/07/2021 (check the timeline feature in autopsy)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;file system used&lt;/td&gt;
+ &lt;td&gt;HFS+ (check the partition table)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;who owns device&lt;/td&gt;
+ &lt;td&gt;Joan Sally Smith (bunch of stuff in the user account directory)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;are you certain&lt;/td&gt;
+ &lt;td&gt;no (you can never be)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;fs version&lt;/td&gt;
+ &lt;td&gt;HFS+ 4 (volume header section contains HFSPlusVolumeHeader)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id="harder-questions"&gt;harder questions&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;user&amp;rsquo;s password&lt;/td&gt;
+ &lt;td&gt;PaSsWoRd (crack the keychain with &lt;a href="https://int0x33.medium.com/day-68-crack-file-key-and-keychain-passwords-with-john-8aeb5df34a54"&gt;johntheripper&lt;/a&gt;)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;hidden passwords&lt;/td&gt;
+ &lt;td&gt;bobbytables (header of /&amp;hellip;/Document/agocbaqa0h341)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;correcthorsebatterystaple (in the file /&amp;hellip;/Document/gpj.10mhk4pc3paw0)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;secrets in keychain&lt;/td&gt;
+ &lt;td&gt;SuperSecret:IShouldBeUsingMFAIn2021 (&lt;a href="https://github.com/n0fate/chainbreaker"&gt;chainbreaker&lt;/a&gt; with user&amp;rsquo;s password)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;/section>
-&lt;hr>
+&lt;/section&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="report-feedback">report feedback&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Report AVG&lt;/td>
- &lt;td>&lt;code>74.85%&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Reflection AVG&lt;/td>
- &lt;td>&lt;code>61.88%&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Overall&lt;/td>
- &lt;td>&lt;code>71.11%&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h3 id="findings">findings&lt;/h3>
-&lt;p>84%&lt;/p></description></item><item><title>08: mobile forensics</title><link>/8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/8/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="report-feedback"&gt;report feedback&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Report AVG&lt;/td&gt;
+ &lt;td&gt;&lt;code&gt;74.85%&lt;/code&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Reflection AVG&lt;/td&gt;
+ &lt;td&gt;&lt;code&gt;61.88%&lt;/code&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Overall&lt;/td&gt;
+ &lt;td&gt;&lt;code&gt;71.11%&lt;/code&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id="findings"&gt;findings&lt;/h3&gt;
+&lt;p&gt;84%&lt;/p&gt;</description></item><item><title>08: mobile forensics</title><link>/8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/8/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="mobile-forensics">mobile forensics&lt;/h1>
-&lt;h3 id="comp6445-week08">comp6445 week08&lt;/h3>
-&lt;hr>
-&lt;h3 id="report-reflection">report reflection&lt;/h3>
-&lt;ul>
-&lt;li>what did you think about them? waht could be improved&lt;/li>
-&lt;li>how do you feel you went? did you improve?&lt;/li>
-&lt;/ul>
-&lt;hr>
+&lt;h1 id="mobile-forensics"&gt;mobile forensics&lt;/h1&gt;
+&lt;h3 id="comp6445-week08"&gt;comp6445 week08&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id="report-reflection"&gt;report reflection&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;what did you think about them? waht could be improved&lt;/li&gt;
+&lt;li&gt;how do you feel you went? did you improve?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h3 id="investigation">investigation&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>memory profile&lt;/td>
- &lt;td>WinXPSP2x86 (woops vol3 doesn&amp;rsquo;t use these)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>nt hash&lt;/td>
- &lt;td>31d6cfe0d16ae931b73c59d7e0c089c0&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>password&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>antivirus&lt;/td>
- &lt;td>no&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>keylogger pid&lt;/td>
- &lt;td>2360 (I showed this)&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h3 id="investigation-p2">investigation p2&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>keylogger installed?&lt;/td>
- &lt;td>can&amp;rsquo;t tell&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>keylogger running?&lt;/td>
- &lt;td>no&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>remote access?&lt;/td>
- &lt;td>5800;5900&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>memory sample?&lt;/td>
- &lt;td>mdd_1.3.exe&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
+&lt;section data-shortcode-section&gt;
+&lt;h3 id="investigation"&gt;investigation&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;memory profile&lt;/td&gt;
+ &lt;td&gt;WinXPSP2x86 (woops vol3 doesn&amp;rsquo;t use these)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;nt hash&lt;/td&gt;
+ &lt;td&gt;31d6cfe0d16ae931b73c59d7e0c089c0&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;password&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;antivirus&lt;/td&gt;
+ &lt;td&gt;no&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;keylogger pid&lt;/td&gt;
+ &lt;td&gt;2360 (I showed this)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id="investigation-p2"&gt;investigation p2&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;keylogger installed?&lt;/td&gt;
+ &lt;td&gt;can&amp;rsquo;t tell&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;keylogger running?&lt;/td&gt;
+ &lt;td&gt;no&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;remote access?&lt;/td&gt;
+ &lt;td&gt;5800;5900&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;memory sample?&lt;/td&gt;
+ &lt;td&gt;mdd_1.3.exe&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;/section>
-&lt;hr>
-&lt;h2 id="mobile-forensics-1">mobile forensics&lt;/h2>
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;h2 id="mobile-forensics-1"&gt;mobile forensics&lt;/h2&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h3 id="types-of-extraction">types of extraction&lt;/h3>
-&lt;ul>
-&lt;li>logical extraction&lt;/li>
-&lt;li>physical extraction&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>what&amp;rsquo;s the difference?&lt;/p></description></item><item><title>09: review</title><link>/9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/9/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h3 id="types-of-extraction"&gt;types of extraction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;logical extraction&lt;/li&gt;
+&lt;li&gt;physical extraction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;what&amp;rsquo;s the difference?&lt;/p&gt;</description></item><item><title>9: indsutry</title><link>/9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/9/</guid><description>&lt;h2 id="well-get-started-at-1105"&gt;We&amp;rsquo;ll get started at 11:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="course-review">course review&lt;/h1>
-&lt;h3 id="comp6445-week09">comp6445 week09&lt;/h3>
-&lt;hr>
+&lt;h1 id="forensics-in-industry"&gt;forensics in industry&lt;/h1&gt;
+&lt;h3 id="68445-week9"&gt;6[84]45 week9&lt;/h3&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h3 id="house-keeping">house keeping&lt;/h3>
-&lt;p>&lt;img src="https://thumbs.gfycat.com/FriendlyWarmLark-max-1mb.gif" alt="">&lt;/p>
-&lt;ul>
-&lt;li>investigation&lt;/li>
-&lt;li>report feedback&lt;/li>
-&lt;li>court case&lt;/li>
-&lt;li>myexperience&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="investigation">investigation&lt;/h3>
-&lt;ul>
-&lt;li>we literally did this during the tute&lt;/li>
-&lt;li>if you don&amp;rsquo;t get full marks im calling the police&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="report-feedback">report feedback&lt;/h3>
-&lt;ul>
-&lt;li>yeah I didn&amp;rsquo;t marks yours&lt;/li>
-&lt;li>marks should come out next week&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h4 id="solutions">solutions&lt;/h4>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>question&lt;/th>
- &lt;th>answer&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Visited websites&lt;/td>
- &lt;td>wikipedia.org amazon.com bing.com collegelifeweekly.com birdtrader.co.uk internationalowlcenter.org yahoo.com google.com&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Skype email&lt;/td>
- &lt;td>&lt;a href="mailto:mcavoy87@gmail.com">mcavoy87@gmail.com&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Video app&lt;/td>
- &lt;td>musical.ly&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h4 id="solutions-1">solutions&lt;/h4>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>question&lt;/th>
- &lt;th>answer&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>New name&lt;/td>
- &lt;td>TikTok&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Skype name&lt;/td>
- &lt;td>generalhaze28&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Delivery&lt;/td>
- &lt;td>1900&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Response&lt;/td>
- &lt;td>Thank you!&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Location&lt;/td>
- &lt;td>Harris Riverfront Park&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h4 id="solutions-2">solutions&lt;/h4>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>question&lt;/th>
- &lt;th>answer&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Search&lt;/td>
- &lt;td>Huntington, West Virginia, 25701&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>CMLocker&lt;/td>
- &lt;td>17/02/03 12:15&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Timezone&lt;/td>
- &lt;td>-5&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>contacts&lt;/td>
- &lt;td>3&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>smcavoy32&lt;/td>
- &lt;td>/vol31/system/recent_images/110_task_thumbnail.png&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h3 id="court-case">court case&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>when&lt;/th>
- &lt;th>monday wk10, 6-8:30pm&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>where&lt;/td>
- &lt;td>Law Theatre G23&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>compulsory&lt;/td>
- &lt;td>no&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>who can attend&lt;/td>
- &lt;td>anyone&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>pizza&lt;/td>
- &lt;td>party&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;blockquote>
-&lt;p>Come along, it&amp;rsquo;ll be fun&lt;/p></description></item><item><title>Week04</title><link>/4e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4e/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h3 id="house-keeping"&gt;house keeping&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;report feedback&lt;/li&gt;
+&lt;li&gt;court case&lt;/li&gt;
+&lt;li&gt;myexperience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="report-feedback"&gt;report feedback&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;gemini is marking your reports rn (ai studio is crazy)&lt;/li&gt;
+&lt;li&gt;marks should come out this weekend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="court-case"&gt;court case&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;when&lt;/th&gt;
+ &lt;th&gt;wed wk10 (19/11) 6-8:30pm&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;where&lt;/td&gt;
+ &lt;td&gt;Law Theatre G23&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;compulsory&lt;/td&gt;
+ &lt;td&gt;no&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;who can attend&lt;/td&gt;
+ &lt;td&gt;anyone&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;pizza&lt;/td&gt;
+ &lt;td&gt;party&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Come along, it&amp;rsquo;ll be fun&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id="myexperience"&gt;myexperience&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;oh no&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/section&gt;
+&lt;hr&gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="exam"&gt;Exam&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;when&lt;/th&gt;
+ &lt;th&gt;idk&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;duration&lt;/td&gt;
+ &lt;td&gt;3 hours&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;worth&lt;/td&gt;
+ &lt;td&gt;40%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;format&lt;/td&gt;
+ &lt;td&gt;paper?&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id="whats-in-it"&gt;what&amp;rsquo;s in it?&lt;/h3&gt;
+&lt;p&gt;3 sections&lt;/p&gt;</description></item><item><title>Week04</title><link>/4e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4e/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="week04">Week04&lt;/h1>
-&lt;h3 id="comp6445-w19a">COMP6445 W19A&lt;/h3>
-&lt;hr>
+&lt;h1 id="week04"&gt;Week04&lt;/h1&gt;
+&lt;h3 id="comp6445-w19a"&gt;COMP6445 W19A&lt;/h3&gt;
+&lt;hr&gt;
 
 
-&lt;section data-shortcode-section>
-&lt;h2 id="network-forensics">Network forensics&lt;/h2>
-&lt;hr>
-&lt;h3 id="what-is-a-packet">What is a packet?&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>a chunk of data, forming part of a complete message&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>max packet size is about 65kb, so what happens when you stream a movie&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="what-is-in-a-packet">What is in a packet&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>All packets contain a header and a payload&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Payload is all the data&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Header contains any metadata (e.g. length, protocol, source, destination)&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="osi-what">OSI What&lt;/h3>
-&lt;p>&lt;img src="./assets/img/week04/osi_model.jpg" alt="">&lt;/p></description></item><item><title>Week10</title><link>/10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/10/</guid><description>&lt;h2 id="well-get-started-at-1905">We&amp;rsquo;ll get started at 19:05&lt;/h2>
-&lt;hr>
+&lt;section data-shortcode-section&gt;
+&lt;h2 id="network-forensics"&gt;Network forensics&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id="what-is-a-packet"&gt;What is a packet?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;a chunk of data, forming part of a complete message&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;max packet size is about 65kb, so what happens when you stream a movie&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="what-is-in-a-packet"&gt;What is in a packet&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;All packets contain a header and a payload&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Payload is all the data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Header contains any metadata (e.g. length, protocol, source, destination)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="osi-what"&gt;OSI What&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./assets/img/week04/osi_model.jpg" alt=""&gt;&lt;/p&gt;</description></item><item><title>Week10</title><link>/10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/10/</guid><description>&lt;h2 id="well-get-started-at-1905"&gt;We&amp;rsquo;ll get started at 19:05&lt;/h2&gt;
+&lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
- class="center">
+ class="center"&gt;
  
-&lt;h1 id="course-review">course review&lt;/h1>
-&lt;h3 id="comp6445-week10">comp6445 Week10&lt;/h3>
-&lt;hr>
-&lt;h3 id="myexperience">myexperience&lt;/h3>
-&lt;blockquote>
-&lt;p>pls don&amp;rsquo;t roast me&lt;/p>
-&lt;/blockquote>
-&lt;hr>
-&lt;h3 id="among">among&lt;/h3>
-&lt;p>us?&lt;/p></description></item></channel></rss>
+&lt;h1 id="course-review"&gt;course review&lt;/h1&gt;
+&lt;h3 id="comp6445-week10"&gt;comp6445 Week10&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id="myexperience"&gt;myexperience&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;pls don&amp;rsquo;t roast me&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id="among"&gt;among&lt;/h3&gt;
+&lt;p&gt;us?&lt;/p&gt;</description></item></channel></rss>
